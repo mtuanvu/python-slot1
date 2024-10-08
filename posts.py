@@ -7,3 +7,4 @@ def get_posts():
 def add_post(title, content):
     post = {"title": title, "content": content}
     posts.append(post)
+    
